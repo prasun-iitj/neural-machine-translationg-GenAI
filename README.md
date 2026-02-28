@@ -15,7 +15,7 @@ English to Spanish translation using a Transformer Encoder-Decoder model.
 ## How to Run
 Open the notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/[github/YOUR_USERNAME/neural-machine-translation](github.com/prasun-iitj/neural-machine-translationg-GenAI/blob/main/NMT_CrossAttention_Final.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prasun-iitj/neural-machine-translationg-GenAI/blob/main/NMT_CrossAttention_Final.ipynb)
 
 ## Results
 - Training and Validation loss curves included
